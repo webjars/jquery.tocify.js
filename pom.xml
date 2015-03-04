@@ -24,10 +24,10 @@
         <requirejs>
             {
                 "paths": {
-                    "jquery.tocify.js": "js"
+                    "jquery-tocify-js": "js/jquery.tocify"
                 },
                 "shim": {
-                    "jquery.tocify.js": ["jquery", "jquery-ui"]
+                    "jquery-tocify-js": ["jquery", "jquery-ui"]
                 }
             }
         </requirejs>
@@ -50,7 +50,7 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/webjars/WEBJAR_ID</url>
+        <url>http://github.com/webjars/jquery.tocify.js</url>
         <connection>scm:git:https://github.com/webjars/jquery.tocify.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery.tocify.js.git</developerConnection>
         <tag>HEAD</tag>
