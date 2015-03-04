@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery.tocify.js</artifactId>
-    <version>1.9.0</version>
+    <version>1.9.1-SNAPSHOT</version>
     <name>jQuery Tocify</name>
     <description>WebJar for jQuery Tocify</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/jquery.tocify.js</url>
         <connection>scm:git:https://github.com/webjars/jquery.tocify.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery.tocify.js.git</developerConnection>
-        <tag>jquery.tocify.js-1.9.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencies>
